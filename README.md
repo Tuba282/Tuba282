@@ -1,4 +1,4 @@
-# 👋 Assalamualikum [Greetings] ✨
+# 👋 Assalamualikum [Greetings 🫡] ✨
 
 ## 💻 MERN Stack Developer | Trainer & Technical Assistant | Freelancer
 
