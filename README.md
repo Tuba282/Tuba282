@@ -1,6 +1,6 @@
 # 👋 Assalamualikum [Greetings 🫡] ✨
 
-## 💻 MERN Stack Developer | Trainer & Technical Assistant | Freelancer
+## 💻 MERN Stack Developer | Lead Trainer | Freelancer
 
 I craft scalable, production-ready web applications using **MongoDB, Express, React, and Node.js**—focusing on clean architecture, responsive design, and accessibility. As a trainer and technical assistant, I’m passionate about mentoring developers, breaking down complex ideas, and fostering inclusive learning environments. Whether I’m writing elegant code or guiding others, I build with clarity, intention, and heart.
 
@@ -10,7 +10,7 @@ I craft scalable, production-ready web applications using **MongoDB, Express, Re
 
 *Intro:* My name is *Tuba Jan*
 - 🔭 Currently pursuing a **BSCS degree** while interning at **DevXscript**, actively sharpening my skills as a MERN Stack Developer through real-world projects.  
-- 👩‍🏫 Over **6 months of experience** as a **Trainer Assistant** at **SMIT**, where I supported learners and helped simplify complex development concepts.  
+- 👩‍🏫 Over **9 months of experience** as a **Trainer Assistant** at **SMIT**, where I supported learners and helped simplify complex development concepts.  
 - 💼 Currently working as a **Full Stack Developer** with [Better Future for Pakistan](https://www.facebook.com/search/top?q=better%20future%20for%20pakistan), contributing to impactful digital initiatives and leading new projects as part of their tech team.  
 - 🌱 Open to collaboration and networking via [LinkedIn](https://www.linkedin.com/in/tuba-jan-10b0a12b5/).  
 - 👨‍💻 Explore my live projects and portfolio at [tubajan-portfolio] netlify.app](https://tubajan-portfolio.netlify.app/)  
