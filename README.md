@@ -1,24 +1,28 @@
-👋 Assalamualikum [Greetings 🫡] ✨
-💻 MERN Stack Developer | Lead Trainer @ SMIT | Freelancer
+# 👋 Assalamualikum [Greetings 🫡] ✨
+
+## 💻 MERN Stack Developer | Lead Trainer @ SMIT | Freelancer0
+
 I craft scalable, production-ready web applications using the MERN Stack—focusing on clean architecture, responsive design, and performance. As a Lead Trainer, I am dedicated to mentoring the next generation of developers, simplifying complex concepts, and building a community of skilled tech professionals.
+---
 
-💫 About Me
-🎓 BSCS Student at Sindh Madressatul Islam University (SMIU), balancing academic excellence with professional growth.
+## 💫 About Me
 
-🚀 Web Developer Intern at 8Vertix, contributing to professional projects and refining modern web development workflows.
+*Intro:* My name is *Tuba Jan*
 
-👩‍🏫 Lead Trainer at Saylani Mass IT Training (SMIT) (since 2025), leading classrooms and empowering students after previously serving as a Trainer Assistant for 9+ months.
+**🎓 Education**
+	**BS Computer Science** Sindh Madressatul Islam University (SMIU) Currently pursuing academic excellence while applying theoretical knowledge to real-world 	software challenges.
 
-💼 Full Stack Developer at Better Future for Pakistan, working on impactful digital initiatives and tech team leadership.
+**🚀 Work Experience** 
 
-🛠️ Former Intern at DevXscript, where I built the foundation of my MERN stack expertise through real-world applications.
+	**Web Developer Intern | 8Vertix** Contributing to professional web projects, focusing on modern UI/UX and efficient backend logic.
 
-👨‍💻 Explore my live projects and portfolio at tubajan-portfolio.netlify.app
-
-💬 Proficient in JavaScript, TypeScript, React, Express, MongoDB, and Node.js.
-
-📫 Reach out at tubajan282@gmail.com
-
+	**Lead Trainer | Saylani Mass IT Training (SMIT)** (2025 – Present) Promoted to Lead Trainer to manage batches and deliver high-quality tech education.
+	(Previously: Trainer Assistant for 9+ months)
+	
+	**Full Stack Developer | Better Future for Pakistan** Developing impactful digital solutions and contributing to tech-driven social initiatives.
+	
+	**MERN Stack Intern | DevXscript** Gained hands-on experience in building and deploying full-stack applications.
+	
 ---
 
 ## 🌐 Socials
