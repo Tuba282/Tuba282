@@ -1,22 +1,23 @@
-# 👋 Assalamualikum [Greetings 🫡] ✨
+👋 Assalamualikum [Greetings 🫡] ✨
+💻 MERN Stack Developer | Lead Trainer @ SMIT | Freelancer
+I craft scalable, production-ready web applications using the MERN Stack—focusing on clean architecture, responsive design, and performance. As a Lead Trainer, I am dedicated to mentoring the next generation of developers, simplifying complex concepts, and building a community of skilled tech professionals.
 
-## 💻 MERN Stack Developer | Lead Trainer | Freelancer
+💫 About Me
+🎓 BSCS Student at Sindh Madressatul Islam University (SMIU), balancing academic excellence with professional growth.
 
-I craft scalable, production-ready web applications using **MongoDB, Express, React, and Node.js**—focusing on clean architecture, responsive design, and accessibility. As a trainer and technical assistant, I’m passionate about mentoring developers, breaking down complex ideas, and fostering inclusive learning environments. Whether I’m writing elegant code or guiding others, I build with clarity, intention, and heart.
+🚀 Web Developer Intern at 8Vertix, contributing to professional projects and refining modern web development workflows.
 
----
+👩‍🏫 Lead Trainer at Saylani Mass IT Training (SMIT) (since 2025), leading classrooms and empowering students after previously serving as a Trainer Assistant for 9+ months.
 
-## 💫 About Me
+💼 Full Stack Developer at Better Future for Pakistan, working on impactful digital initiatives and tech team leadership.
 
-*Intro:* My name is *Tuba Jan*
-- 🔭 Currently pursuing a **BSCS degree** while interning at **DevXscript**, actively sharpening my skills as a MERN Stack Developer through real-world projects.  
-- 👩‍🏫 Over **9 months of experience** as a **Trainer Assistant** at **SMIT**, where I supported learners and helped simplify complex development concepts.  
-- 💼 Currently working as a **Full Stack Developer** with [Better Future for Pakistan](https://www.facebook.com/search/top?q=better%20future%20for%20pakistan), contributing to impactful digital initiatives and leading new projects as part of their tech team.  
-- 🌱 Open to collaboration and networking via [LinkedIn](https://www.linkedin.com/in/tuba-jan-10b0a12b5/).  
-- 👨‍💻 Explore my live projects and portfolio at [tubajan-portfolio] netlify.app](https://tubajan-portfolio.netlify.app/)  
-- 💬 Proficient in **JavaScript, TypeScript, React, Express, MongoDB, and Node.js**. Always happy to collaborate or assist with development challenges.  
-- 📫 Reach out at [tubajan282@gmail.com](mailto:tubajan282@gmail.com)  
-- ⚡ Fun fact: I love transforming ideas into clean, scalable code—and empowering others to do the same.
+🛠️ Former Intern at DevXscript, where I built the foundation of my MERN stack expertise through real-world applications.
+
+👨‍💻 Explore my live projects and portfolio at tubajan-portfolio.netlify.app
+
+💬 Proficient in JavaScript, TypeScript, React, Express, MongoDB, and Node.js.
+
+📫 Reach out at tubajan282@gmail.com
 
 ---
 
