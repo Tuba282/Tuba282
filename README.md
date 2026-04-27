@@ -1,31 +1,36 @@
-# 👋 Assalamualikum [Greetings 🫡] ✨
+# 👋 **Assalamualikum [Greetings 🫡]** ✨
 
-## 💻 MERN Stack Developer | Lead Trainer @ SMIT | Freelancer0
+## **💻 MERN Stack Developer | Lead Trainer @ SMIT | Freelancer0**
 
 I craft scalable, production-ready web applications using the MERN Stack—focusing on clean architecture, responsive design, and performance. As a Lead Trainer, I am dedicated to mentoring the next generation of developers, simplifying complex concepts, and building a community of skilled tech professionals.
 ---
 
 ## 💫 About Me
 
-*Intro:* My name is *Tuba Jan*
+*Intro:* My name is **Tuba Jan**
 
-**🎓 Education**
+## 🎓 Education
 	**BS Computer Science** Sindh Madressatul Islam University (SMIU) Currently pursuing academic excellence while applying theoretical knowledge to real-world 	software challenges.
 
-**🚀 Work Experience** 
+## 🚀 Work Experience
 
-	**Web Developer Intern | 8Vertix** Contributing to professional web projects, focusing on modern UI/UX and efficient backend logic.
+### Web Developer Intern | 8Vertix 
+Contributing to professional web projects, focusing on modern UI/UX and efficient backend logic.
 
-	**Lead Trainer | Saylani Mass IT Training (SMIT)** (2025 – Present) Promoted to Lead Trainer to manage batches and deliver high-quality tech education.
+### Lead Trainer | Saylani Mass IT Training (SMIT) (2025 – Present)
+ 	Promoted to Lead Trainer to manage batches and deliver high-quality tech education.
+
 	(Previously: Trainer Assistant for 9+ months)
 	
-	**Full Stack Developer | Better Future for Pakistan** Developing impactful digital solutions and contributing to tech-driven social initiatives.
+### Full Stack Developer | Better Future for Pakistan
+	Developing impactful digital solutions and contributing to tech-driven social initiatives.
 	
-	**MERN Stack Intern | DevXscript** Gained hands-on experience in building and deploying full-stack applications.
+### MERN Stack Intern | DevXscript
+	Gained hands-on experience in building and deploying full-stack applications.
 	
 ---
 
-## 🌐 Socials
+## **🌐 Socials**
 
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/tubajan)  
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/profile.php?id=100088131563237)  
@@ -35,7 +40,7 @@ I craft scalable, production-ready web applications using the MERN Stack—focus
 
 ---
 
-## 💻 Tech Stack
+## **💻 Tech Stack**
 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
